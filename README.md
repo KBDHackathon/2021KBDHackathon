@@ -21,21 +21,21 @@ Korea Body Shape % Measurement Data AI Hackathon은 '인공지능 학습용 데�
         <th style="text-align:left;width:35%">수상</th>
   </tr>
   <tr>
-    <td>
+    <td align=center>
       <strong>대상</strong><br>
     </td>
     <td align=center> 상금 250만원 </td>
     <td> 1팀 </td>
   </tr>
     <tr>
-    <td>
+    <td align=center>
       <strong>최우수상</strong><br>
     </td>
     <td style="text-align:center"> 상금 150만원</td>
         <td align=center> 1팀 </td>
    </tr>
       <tr>
-    <td>
+    <td align=center>
       <strong>우수상</strong><br>
     </td>
     <td style="text-align:center">상금 100만원</td>
