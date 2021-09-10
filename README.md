@@ -3,7 +3,7 @@
 # 2021 Korean Body Shape & Measurement Data AI Hackathon 2021
 전신 형상 및 치수 측정 데이터 인공지능 모델 개발에 도전해보세요! 
 
-Korea Body Shape % Measurement Data AI Hackathon은 '인공지능 학습용 데이터 구축 사업'을 통해 구축된 한국인 전신 형상 & 치수 측정 데이터를 활용하여 전신 데이터 인공지능 모델을 개발하는 해커톤 대회입니다. <p>
+Korea Body Shape & Measurement Data AI Hackathon은 '인공지능 학습용 데이터 구축 사업'을 통해 구축된 한국인 전신 형상 & 치수 측정 데이터를 활용하여 전신 데이터 인공지능 모델을 개발하는 해커톤 대회입니다. <p>
 
 인공지능 모델 개발에 도전하실 분들을 기다리고 있습니다.
 <br>  
