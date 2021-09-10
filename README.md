@@ -62,14 +62,14 @@ Korea Body Shape % Measurement Data AI Hackathon은 '인공지능 학습용 데�
   </tr>
     <tr>
     <td>
-      <strong>서류심사</strong><br>
+  <td align=center> 서류심사</strong><br>
     </td>
     <td style="text-align:center">2021. 11. 8.(월) ~ 2021. 11. 12.(금)</td>
         <td align=center> 합격팀 개별 통보
     </td>
    </tr>
      <tr>
-      <strong>사전설명회</strong><br>
+    <td align=center> 사전설명회</strong><br>
     </td>
     <td style="text-align:center">2021. 17.(수)</td>
         <td align=center> 본선진출팀(20팀) 대상
