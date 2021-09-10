@@ -98,8 +98,8 @@ Korea Body Shape & Measurement Data AI Hackathon은 '인공지능 학습용 데�
 - 문의: help.kbdhackathon@gmail.com 
 
 ## 추진
-- 주관: 과학기술정보통신부, 한국지능정보사회진흥원
-- 주최: 위지윅스튜디오, 메트릭스리서치, 이오이스, 미소정보기술, 에어패스
+- 주최: 과학기술정보통신부, 한국지능정보사회진흥원
+- 주관: 위지윅스튜디오, 메트릭스리서치, 이오이스, 미소정보기술, 에어패스
 
 ## FAQ
 - 자주 문의하는 내용을 확인해 보세요! [FAQ](https://github.com/KBDHackathon/2021KBDHackathon/blob/master/FAQ.md)
