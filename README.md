@@ -1,4 +1,5 @@
-![[시안 1] 2021한국인 전신 데이터 활용 AI 해커톤 포스터.pdf](https://github.com/KBDHackathon/2021KBDHackathon/files/7141388/1.2021.AI.pdf)
+!![시안 1  2021한국인 전신 데이터 활용 AI 해커톤 포스터_1](https://user-images.githubusercontent.com/90435602/132802169-c342c581-2809-494e-9172-81bc761c19fb.jpg)
+
 # 2021 Korean Body Shape & Measurement Data AI Hackathon 2021
 전신 형상 및 치수 측정 데이터 인공지능 모델 개발에 도전해보세요! 
 
