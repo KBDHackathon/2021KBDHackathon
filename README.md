@@ -61,7 +61,7 @@ Korea Body Shape & Measurement Data AI Hackathon은 '인공지능 학습용 데�
     <td style="text-align:center"> 2021. 10. 1.(금) ~ 2021. 11. 5.(일) 23시 59분 59초</td>
     <td align=center> 온라인 </td>
   </tr>
-  <td align=center> <strong> 서류심사</strong><br>
+  <td align=center> <strong> 예선</strong><br>
     </td>
     <td style="text-align:center">2021. 11. 8.(월) ~ 2021. 11. 12.(금)</td>
         <td align=center> 합격팀 개별 통보
@@ -88,7 +88,7 @@ Korea Body Shape & Measurement Data AI Hackathon은 '인공지능 학습용 데�
 
 ## 심사기준
 - 예선(서면평가): 개발 역량 및 인공지능 학습 모델 개발 계획 평가
-- 본성(온라인제출): 제출된 모델 성능 평가
+- 본선(온라인제출): 제출된 모델 성능 평가
 
 ## 참가신청
 - 참가신청 마감: 2021. 10. 1.(금) ~ 2021. 11. 5.(일) 23시 59분 59초
