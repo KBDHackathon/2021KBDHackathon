@@ -58,9 +58,8 @@ Korea Body Shape % Measurement Data AI Hackathon은 '인공지능 학습용 데�
       <strong>공모 및 접수</strong><br>
     </td>
     <td style="text-align:center"> 2021. 10. 1.(금) ~ 2021. 11. 5.(일) 23시 59분 59초</td>
-    <td> 온라인(link) </td>
+    <td> 온라인 </td>
   </tr>
-    <td>
   <td align=center> 서류심사</strong><br>
     </td>
     <td style="text-align:center">2021. 11. 8.(월) ~ 2021. 11. 12.(금)</td>
